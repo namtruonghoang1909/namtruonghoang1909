@@ -13,7 +13,7 @@
 
 * 🎯 **Current Focus:** Designing and implementing **embedded systems** and **IoT devices**.
 * 📚 **Learning Next:** Mastering **Classic AUTOSAR** architecture and the future of **Automotive**.
-* 🤝 **Collaborations:** Open to discussions on **IoT Systems**, **Robotics**, and **Edge AI**.
+* 🤝 **Collaborations:** Open to discussions on **IoT Systems**, **Robotics**, **Automotive** and **Edge AI**.
 
 <br>
 

@@ -61,9 +61,10 @@
 
 * 🛗 **[Elevator Safety Monitoring Unit](https://github.com/namtruonghoang1909/Elevator-Safety-Monitoring-Unit)** – A distributed, safety-critical system designed for elevator health monitoring and automated fault detection.
   * `C` `ESP32` `STM32` `FreeRTOS` `CAN Bus` `I2C SPI UART`
-* 🏠 **[Smart Home AIoT](https://github.com/hufzohel/AIOT-)** – An integrated home automation system utilizing hand gesture recognition for appliance control and Edge AI to predict environmental states.
-  * `Python` `C/C++` `ESP32` `TensorFlow Lite` `MediaPipe`
-
+* 🏠 **[Smart Home AIoT](https://github.com/hufzohel/AIOT-)** – An integrated home automation system utilizing hand gesture recognition for appliance control and environmental states predictions.
+  * `Python` `C/C++` `ESP32` `MediaPipe`
+* 🛡️ **[Virtual Security System](https://github.com/namtruonghoang1909/Virtual-Security-System)** – A distributed, multi-process security system built for an AArch64 Embedded Linux environment to practice low-level systems programming and IPC.
+  * `C++` `Embedded Linux` `POSIX IPC` `Buildroot`
 ---
 
 ### 📊 GitHub Activity Graph

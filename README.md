@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Hello%2C%20i'm Truong Hoang Nam-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>Welcome to my workspace!</h1>
-  <h3>Embedded Firmware Engineer | Seeking an Internship</h3>
+  <h3>Embedded Firmware Engineer</h3>
   
 </div>
 
@@ -63,8 +63,8 @@
   * `C` `ESP32` `STM32` `FreeRTOS` `CAN Bus` `I2C SPI UART`
 * 🏠 **[Smart Home AIoT](https://github.com/hufzohel/AIOT-)** – An integrated home automation system utilizing hand gesture recognition for appliance control and environmental states predictions.
   * `Python` `C/C++` `ESP32` `MediaPipe`
-* 🛡️ **[Virtual Security System](https://github.com/namtruonghoang1909/Virtual-Security-System)** – A distributed, multi-process security system built for an AArch64 Embedded Linux environment to practice low-level systems programming and IPC.
-  * `C++` `Embedded Linux` `POSIX IPC` `Buildroot`
+* 🛡️ **[Adaptive frontlighting system](https://github.com/namtruonghoang1909/Adaptive-Frontlighting-System)** – Matrix-LED headlight prototype for glare control and horizontal beam steering in cars.
+  * `C++` `C` `POSIX IPC` `Metadrive` `SocketCAN` `STM32`
 ---
 
 ### 📊 GitHub Activity Graph

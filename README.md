@@ -67,8 +67,3 @@
   * `C++` `C` `POSIX IPC` `Metadrive` `SocketCAN` `STM32`
 ---
 
-### 📊 GitHub Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namtruonghoang1909&theme=react-dark&hide_border=true&area=true" />
-</div>
-

@@ -11,9 +11,9 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Designing and implementing **embedded systems** and **IoT devices**.
+* 🎯 **Current Focus:** Designing and implementing **embedded systems**.
 * 📚 **Learning Next:** Mastering **AUTOSAR** architecture and the future of **Automotive**.
-* 🤝 **Collaborations:** Open to discussions on **IoT Systems**, **Automotive**, **Edge AI**.
+* 🤝 **Collaborations:** Open to discussions on **Automotive**, **Edge AI**.
 
 <br>
 
